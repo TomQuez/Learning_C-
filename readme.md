@@ -1,4 +1,6 @@
-# Recap
+# Learning C++
+
+## Recap
 
 ### Recap : C++ Syntax Elements and Concepts (Session 1)
 
