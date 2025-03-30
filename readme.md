@@ -1,6 +1,6 @@
 # Recap
 
-## Recap : C++ Syntax Elements and Concepts (Session 1)
+### Recap : C++ Syntax Elements and Concepts (Session 1)
 
 | Element     | Type                   | Role / Description                                           |
 | ----------- | ---------------------- | ------------------------------------------------------------ |
@@ -14,3 +14,17 @@
 | `std::endl` | Manipulator            | Inserts a newline and flushes the output buffer              |
 | `;`         | Statement Terminator   | Ends a C++ instruction (mandatory)                           |
 | `return`    | Keyword                | Exits a function and optionally returns a value              |
+
+### 🧠 Recap: C++ Variables and Types (Session 2)
+
+| Element     | Type            | Role / Description                             |
+| ----------- | --------------- | ---------------------------------------------- |
+| `int`       | Primitive Type  | Whole number (e.g., 30)                        |
+| `double`    | Primitive Type  | Decimal number (e.g., 36.6)                    |
+| `char`      | Primitive Type  | Single character (e.g., 'A')                   |
+| `bool`      | Primitive Type  | Boolean value (`true` or `false`)              |
+| `=`         | Assignment      | Sets the initial value of a variable           |
+| `std::cout` | Output Stream   | Prints values to the terminal                  |
+| `<<`        | Output Operator | Sends data to an output stream                 |
+| `'A'`       | Char Literal    | A single character between single quotes       |
+| `"..."`     | String Literal  | A sequence of characters between double quotes |
